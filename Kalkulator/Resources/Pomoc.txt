@@ -1,0 +1,10 @@
+Kalkulator powsta³ na bazie rozporz¹dzenia komisji UE NR 547/2012 z dnia 25 czerwca 2012 r.
+
+Oznaczenia rodzaju pompy:
+ESOB - Pompa do wody z wlotem osiowym i korpusem ³o¿y­skowym.
+ESCC - Monoblokowa pompa do wody z wlotem osiowym.
+ESCCi - Monoblokowa pompa do wody z wlotem osiowym in-line.
+MS-V - Pionowa wielostopniowa pompa do wody.
+MSS - Wielostopniowa g³êbinowa pompa do wody.
+
+Kalkulator zrealizowany zosta³ na potrzeby artyku³u dla czasopisma "Pompy i pompownie".
